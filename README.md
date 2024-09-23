@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Meu nome é Sandro Cantanhêde, e eu sou Desenvolvedor Back End e Mobile</h2>
+<h2 align="left">Oi 👋! Meu nome é Sandro Cantanhêde, e eu sou Desenvolvedor Back End e Mobile.</h2>
 
 ###
 
